@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+
+  "name": "Trello card numbers",
+  "version": "1.0.0",
+  "description": "Show the card numbers on trello.com for easier communication in a team",
+
+  "content_scripts": [
+    {
+      "matches": ["https://trello.com/*"],
+      "css": ["override.css"],
+      "all_frames": true
+    }
+  ]
+}
