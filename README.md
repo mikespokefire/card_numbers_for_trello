@@ -1,15 +1,12 @@
-# Trello card numbers
-
-## Card number extension for Chrome
+# Trello card numbers - Chrome extension
 
 ## Installation
 
 To install this plugin you'll first need to;
 
-1. Clone the git repository or download as an archive onto your local machine.
+1. Download the [latest release](https://github.com/mikespokefire/trello_card_numbers/releases/download/v1.0/trello_card_numbers.crx)
 2. Open Preferences in Chrome.
 3. Enter the Extensions panel.
-4. Click 'Load unpacked extension'.
-5. Select the directory of the plugin
+4. Drag the `trello_card_numbers.crx` file that you downloaded into the extensions window
 
 All done.
