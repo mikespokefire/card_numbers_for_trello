@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "Card Numbers for Trello",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Show the card numbers on trello.com for easier communication in a team",
 
   "content_scripts": [
